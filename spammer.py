@@ -9,4 +9,4 @@ for word in f:
     #You can use this on Instagram, Whatsapp and etc!
     #Simple python 5 lines of code spammer.
     #Any problem? dm svrn#1098
-    #Make sure you are using PyCharm Edu!
+    #Make sure you are using PyCharm Edu
